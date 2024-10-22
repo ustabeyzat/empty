@@ -1,4 +1,4 @@
 # empty
 Blank express server template
 
-Ekspres server şablonu
+Express JS server şablonu
