@@ -10,5 +10,5 @@ app.use(function(req, res){
 // Yayınlarken IP ve portu sil
 var port = 8080;
 app.listen(port, function () {
-  console.log(" * IP -> localhost:" + port);
+  console.log(" * http://127.0.0.1:" + port + "/");
 });
